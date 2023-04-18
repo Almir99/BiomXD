@@ -1,0 +1,42 @@
+@font-face {
+    font-family: 'Brandon';
+    src: local('Brandon_thin'), url('../../public/fonts/Brandon/Brandon_thin.otf') format('opentype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Brandon';
+    src: local('Brandon_light'), url('../../public/fonts/Brandon/Brandon_light.otf') format('opentype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Brandon';
+    src: local('Brandon_reg'), url('../../public/fonts/Brandon/Brandon_reg.otf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Brandon';
+    src: local('Brandon_med'), url('../../public/fonts/Brandon/Brandon_med.otf') format('opentype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Brandon';
+    src: local('Brandon_bld'), url('../../public/fonts/Brandon/Brandon_bld.otf') format('opentype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Brandon';
+    src: local('Brandon_blk'), url('../../public/fonts/Brandon/Brandon_blk.otf') format('opentype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}

@@ -1,0 +1,26 @@
+@import "brandon.css";
+@import "chronicle.css";
+
+:root{
+  --white:#FFFFFF;
+  --white-075:rgba(255, 255, 255, 0.75);
+  --light-gray:#F2F2F2;
+  --slightly-less-white:#FFFAFA;
+  --black:#000000;
+  --light-green:#DAE5E5;
+  --green:#004A4C;
+  --dark-green:#002D33;
+  --yellow:#DDA74A;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+
+  margin: 0;
+  padding: 0;
+  font-family: "Brandon", "Chronicle", 'sans-serif';
+}
+

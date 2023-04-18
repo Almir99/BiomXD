@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'Chronicle';
+    src: local('Chronicle_Display_Light_Italic'), url('../../public/fonts/Chronicle/Chronicle_Display_Light_Italic.otf') format('opentype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Chronicle';
+    src: local('Chronicle_Display_Roman'), url('../../public/fonts/Chronicle/Chronicle_Display_Roman.otf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Chronicle';
+    src: local('Chronicle_Display_Semibold'), url('../../public/fonts/Chronicle/Chronicle_Display_Semibold.otf') format('opentype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Chronicle';
+    src: local('Chronicle_Display_Black'), url('../../public/fonts/Chronicle/Chronicle_Display_Black.otf') format('opentype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
